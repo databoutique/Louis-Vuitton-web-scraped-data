@@ -1,0 +1,14 @@
+# Louis Vuitton web scraped data 
+
+## About the website
+
+**Louis Vuitton** is a renowned French fashion house that has left its legacy in the luxury market. Founded in 1854 by Louis Vuitton in Paris, France, this **luxury brand** has become a symbol of refined status worldwide, offering luggage, leather goods, clothing, accessories, and more. The brand is better known for being part of the **[LVMH Moët Hennessy Louis Vuitton](https://www.lvmh.com/)** Group, a multinational luxury goods conglomerate, headquartered in Paris. The group is publicly listed on the Euronext Paris stock exchange under the ticker symbol "MC." Their IPO was held in October 1988, with a market cap unknown at that time. For more information, explore the **[Louis Vuitton](https://en.wikipedia.org/wiki/Louis_Vuitton)** Wikipedia page or their **[Bloomberg](https://www.bloomberg.com/quote/MC:FP)** profile.
+
+Louis Vuitton, like any other prominent brand, faces competition in the luxury market. These competitors include brands like **[Gucci](https://www.gucci.com/)**, **[Prada](https://www.prada.com/)**, and **[Chanel](https://www.chanel.com/)**. All of them share the common trait of being prestigious fashion houses offering upscale items including clothing, handbags, shoes, and other accessories. Like Louis Vuitton, these brands are known for their high-quality products with distinctive design elements and branding, and they also have loyal customer bases comprised of clients drawn to luxury offerings. See more about these brands on their respective Wikipedia pages: **[Gucci](https://en.wikipedia.org/wiki/Gucci)**, **[Prada](https://en.wikipedia.org/wiki/Prada)**, and **[Chanel](https://en.wikipedia.org/wiki/Chanel)**. Bloomberg profiles for these companies may also found here: **[Gucci](https://www.bloomberg.com/profile/company/GUC:RM)** (owned by Kering), **[Prada](https://www.bloomberg.com/quote/1913:HK)**, and **[Chanel](https://www.bloomberg.com/profile/company/844975Z:US)**.
+
+Web-scraped data from the Louis Vuitton website could serve a plethora of use cases. For instance, the live-tracking of prices and discounts on their products could provide real-time insights into the companys sales strategies. This information could be immensely beneficial to competitors and market researchers wanting to understand Louis Vuittons marketing and pricing strategies. Similarly, by tracking changes in the availability of products and analysing trends in the companys online catalogue, one could monitor the brands stock levels and the popularity of specific items. This could inform business intelligence insights, supply chain management decisions, and trend forecasting endeavours.
+
+
+## Link to **dataset**
+
+[Louis Vuitton dataset](https://www.databoutique.com/buy-data-list-subset/Louis%20Vuitton%20web%20scraped%20data/r/recO0GjKtMEXXq29w)
